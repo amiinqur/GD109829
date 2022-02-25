@@ -1,4 +1,4 @@
-# GAME DEVELOPMENT SPRING 2022: Course Repository #
+# GAME DEVELOPMENT 109829 SPRING 2022: Course Repository #
 ### PROJECT MEMBERS ###
 StdID | Name
 ------------ | -------------
