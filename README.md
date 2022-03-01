@@ -4,6 +4,7 @@ StdID | Name
 ------------ | -------------
 **63855** | **Amin M. Quraishi** <!--this is the group leader in bold-->
 63927 | Abdullah Afaque
+62606 | Syed Muhammad Azhar
 <!-- Replace name and student ids with acutally group member names and ids-->
 
 
@@ -20,3 +21,6 @@ My idea of a game is inspired by a movie I watched called, Free Guy. In the movi
 ### 63927 Abdullah Afaque ###
 My idea of is inspired by a dream where the villian is very powerfull and no superhero could defeat him. In the game the villian charactor goes through a journey due to which he becomes the person he is and he gains all his powers through the journey.  So if I had all the time and possible resources, I would love to make that game in reality and experience the whole idea. An open-world game filled with AI npcs is just a fascinating idea. I hope that in future, the idea actually comes into reality.
 
+
+
+### 62606 Syed Muhammad Azhar ###
