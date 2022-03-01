@@ -16,3 +16,5 @@ This repository contains assignments and the final project submitted to GD cours
 ### 63855 Amin M. Quraishi ##
 My idea of a game is inspired by a movie I watched called, Free Guy. In the movie, there is an open-world game with AI non-playable characters and they evolve as the game progresses. So if I had all the time and possible resources, I would love to make that game in reality and experience the whole idea. An open-world game filled with AI npcs is just a fascinating idea. I hope that in future, the idea actually comes into reality.
 
+
+### 63927 Abdullah Afaque ###
