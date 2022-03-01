@@ -4,6 +4,7 @@ StdID | Name
 ------------ | -------------
 **63855** | **Amin M. Quraishi** <!--this is the group leader in bold-->
 63927 | Abdullah Afaque
+62606 | Syed Muhammad Azhar
 <!-- Replace name and student ids with acutally group member names and ids-->
 
 
@@ -18,3 +19,7 @@ My idea of a game is inspired by a movie I watched called, Free Guy. In the movi
 
 
 ### 63927 Abdullah Afaque ###
+
+
+
+### Syed Muhammad Azhar ###
