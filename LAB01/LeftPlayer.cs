@@ -17,6 +17,7 @@ public class LeftPlayer : MonoBehaviour
     private Vector2 direction;
     public float speed = 10.0f;
     // Update is called once per frame
+    //SYED MUHAMMAD AZHAR
     void Update()
     {
         var vel = rigidBody.velocity;
