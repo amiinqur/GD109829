@@ -19,9 +19,9 @@ My idea of a game is inspired by a movie I watched called, Free Guy. In the movi
 
 
 ### 63927 Abdullah Afaque ###
-My idea of is inspired by a dream where the villian is very powerfull and no superhero could defeat him. In the game the villian charactor goes through a journey due to which he becomes the person he is and he gains all his powers through the journey.  So if I had all the time and possible resources, I would love to make that game in reality and experience the whole idea. An open-world game filled with AI npcs is just a fascinating idea. I hope that in future, the idea actually comes into reality.
+My idea of is inspired by a dream where the villian is very powerfull and no superhero could defeat him. In the game the villian charactor goes through a journey due to which he becomes the person he is and he gains all his powers through the journey.  So if I had all the time and possible resources, I would love to make that game in reality and experience the whole idea. 
 
 
 
 ### 62606 Syed Muhammad Azhar ###
-My idea of a game is inspired as we all grown up playing cricket and cricket is like second religion for Pakistani peoples so different games modes through AI characters that lets you test your playing skill against friends and random players on the internet and offers different home away grounds through different leagues, Test, Odi's, T20 worldcup, Club, domestic, super sixes tournaments. Batsman playing all type of shots and Bowlers bowls all type of deliveries. So if I had all the time and possible resources, I would love to make that game in reality and experience the whole idea. An open-world game filled with AI npcs is just a fascinating idea. I hope that in future, the idea actually comes into reality.
+My idea of a game is inspired as we all grown up playing cricket and cricket is like second religion for Pakistani peoples so different games modes through AI characters that lets you test your playing skill against friends and random players on the internet and offers different home away grounds through different leagues, Test, Odi's, T20 worldcup, Club, domestic, super sixes tournaments. Batsman playing all type of shots and Bowlers bowls all type of deliveries. So if I had all the time and possible resources, I would love to make that game in reality and experience the whole idea. 
