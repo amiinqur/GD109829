@@ -18,7 +18,7 @@ public class NewBehaviourScript : MonoBehaviour
     {
             rigidBall.AddForce(new Vector2(1, -1) * initialSpeed);
     }
-
+    //AMIN M. QURAISHI WORKED ON COLLISION AND SPEED INCREMENT
     void OnCollisionEnter2D (Collision2D col)
     {
         if(col.gameObject.name == "paddleRight" || col.gameObject.name == "paddleLeft")
