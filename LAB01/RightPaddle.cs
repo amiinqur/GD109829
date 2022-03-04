@@ -19,6 +19,7 @@ public class RightPaddle : MonoBehaviour
     
     public float speed = 10.0f;
     // Update is called once per frame
+    //ABDULLAH AFAQUE 
     void Update()
     {
         var vel = rigidBody.velocity;
