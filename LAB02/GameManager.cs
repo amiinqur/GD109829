@@ -3,6 +3,8 @@ using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.UI;
 
+//AMIN M. QURAISHI WORKED ON DIPLAYING THE SCORES AND THE WINNING MESSAGE
+
 public class GameManager : MonoBehaviour
 {
     public static GameManager gameManager = null;
