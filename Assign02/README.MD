@@ -28,6 +28,8 @@ My idea of a game is inspired as we all grown up playing cricket and cricket is 
 
 
 #### Second Idea ####
-
+My second idea is like a strategic game like clash of clan where you can train your army and seize the throne from neighboring kingdoms.Train troops and create powerful weapons that lets you create your military base and defend it with your heavily armored troops.Loot resources from the enemy and use them to upgrade your defenses.You can also battle players online and defeat those who stand in your way.
 
 #### Third Idea ####
+My third idea is for potential to draw the attention of many in different ages of group either you are 1 year child or you are old age person its always entertaining. There is no doubt that Ludo is popular worldwide. I think of developing a Ludo game with the option of joining through social accounts and offline gaming mode. The feature would help players to play with their friends and family.
+
