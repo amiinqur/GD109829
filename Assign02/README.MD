@@ -18,9 +18,10 @@ My third idea of a game is based on bike riding. A player will be riding a bike 
 My idea of is inspired by a dream where the villian is very powerfull and no superhero could defeat him. In the game the villian charactor goes through a journey due to which he becomes the person he is and he gains all his powers through the journey.  So if I had all the time and possible resources, I would love to make that game in reality and experience the whole idea. 
 
 #### Second Idea ####
+my second idea is inspired by marvel movie where the player moves on different levels and unlocks different marvel charecters. he can turn turn into different charecter any time through a gadget. The player can also enhance the super hero by selecting it more and more. on different levels different villians from marvel movies fight with the hero. 
 
 #### Third Idea ####
-
+my third idea is about a police department that is responsible for the law and order of the city, they have to deal with different mafias working in the city. player can also play a solo mode where he plays as police officer who gets promoted after every completed mission.
 ### 62606 Syed Muhammad Azhar ###
 
 #### First Idea ####
