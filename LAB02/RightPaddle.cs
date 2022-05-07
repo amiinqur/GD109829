@@ -19,28 +19,7 @@ public class RightPaddle : MonoBehaviour
     
     public float speed = 10.0f;
     // Update is called once per frame
-    void Update()
-    {
-        var vel = rigidBody.velocity;
-                if (Input.GetKey(KeyCode.DownArrow))
-                {
-                    direction = Vector2.down;
-                    vel.y=-speed;
-                }
-                else if (Input.GetKey(KeyCode.UpArrow))
-                {
-                    direction = Vector2.up;
-                    vel.y=speed;
-                }
-                    
-                else
-                {
-                    direction = Vector2.zero;
-                    vel.y=0;
-                }
-                rigidBody.velocity=vel;
-                    
-    }
+   
     
     // void FixedUpdate()
     // {
