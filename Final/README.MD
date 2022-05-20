@@ -18,6 +18,9 @@ One scene is for the Menu panel and the second scene is for the whole game.
 ## Scoring Mechanism: Collecting coins ##
 
 
+## Obstacles: Road Blocks ##
+
+
 ## Assets Used in the Game: ##
 
 ### Main Character ###
