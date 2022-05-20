@@ -6,6 +6,12 @@
 Finally, we have successfully made and developed our first game. The game we made is an endless runner game. There is one main character in the game who is runnning on the streets and avoiding obstacles placed at random points on the road. On the side of the road, there are lamps and buildings. There is also a day and night cycle that is going on throughout the game. The current score and the current level are being displayed at the top left and right corners of the screen. The player can earn points by collecting the coins. The speed of the player increases with every coin collection.  
 
 
+## Total Levels: 5 ##
+
+
+## Scoring Mechanism: Collecting coins ##
+
+
 ## Assets Used in the Game: ##
 
 ### Main Character ###
